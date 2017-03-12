@@ -6,8 +6,9 @@ you must install teh following libraries:
     
 # Use
 In order to use the recommeder, run: 
-
+```bash
 $ python recommender.py
+```
 
 Then follow the instructions on the screen. 
 
