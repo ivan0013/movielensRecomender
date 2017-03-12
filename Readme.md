@@ -1,8 +1,9 @@
 # Prerequisites
 you must install teh following libraries:
-    * Pandas
-    * Numpy
-    * Sklearn
+
+* Pandas
+* Numpy
+* Sklearn
     
 # Use
 In order to use the recommeder, run: 
