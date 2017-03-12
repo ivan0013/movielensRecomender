@@ -1,6 +1,5 @@
 # Prerequisites
-you must install teh following libraries:
-
+You must install the following libraries:
 * Pandas
 * Numpy
 * Sklearn
@@ -8,7 +7,7 @@ you must install teh following libraries:
 # Use
 In order to use the recommeder, run: 
 ```bash
-$ python recommender.py
+python recommender.py
 ```
 
 Then follow the instructions on the screen. 
