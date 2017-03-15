@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import math
 import operator
-from sklearn.utils import shuffle
 import sys
 import json
 
