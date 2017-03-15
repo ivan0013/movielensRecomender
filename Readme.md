@@ -2,7 +2,6 @@
 You must install the following libraries:
 * Pandas
 * Numpy
-* Sklearn
     
 # Use
 In order to use the recommeder, run: 
